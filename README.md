@@ -33,4 +33,4 @@ The Store Front is the customer-facing web application that allows users to brow
 
 My rust dev girlfriend
 
-copilot used for spell check and grammar pass.
+copilot used for research and spell check and grammar pass.
